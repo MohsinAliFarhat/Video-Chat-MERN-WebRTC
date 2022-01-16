@@ -1,0 +1,28 @@
+.header{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  li{
+      float:left;
+  }
+
+  .h-font{
+      font-family: Roboto,Arial,sans-serif;
+      font-size: 2rem;
+      color: #5f6368;
+  }
+
+  .header-right{
+      float: right;
+      font-size: 1rem;
+      color: #515357;
+      font-family: Roboto,Arial,sans-serif;
+  }
+
+  #profile-pic{
+      border-radius: 100%;
+      width: 40px;
+  }
